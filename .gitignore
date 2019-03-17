@@ -311,5 +311,6 @@ Temp/
 /**/Packages/
 /**/JetBrains/
 /**/obj/
+/**/UnityPackageManager/
 **/JetBrains.meta
 /**/ProjectVersion.txt
